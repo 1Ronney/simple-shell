@@ -36,5 +36,8 @@ wait4 (man 2 wait4)
 write (man 2 write)
 Compilation
 The shell is to be compiled this way:
+collaborators:
+**Rooney Winga**
+**Linah Shivonje**
 
 ''' gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh ''
